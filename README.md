@@ -17,4 +17,4 @@ Please select a long-term release version from https://qgis.org/en/site/forusers
 + https://tnris.org/data-catalog/entry/national-land-cover-database-2011/ (Large file ~228MB, derived from Satellite data)
 ### Notes: 
 + Data source files should be uncompressed in the Data folder (Data/political-bnd_tx/ & Data/nlcd11_tx/)
-+ I uploaded a PDF copy of the 2.18 documentation by the QGIS Development Team. Its [GNU Free Documentation License](https://docs.qgis.org/2.18/en/docs/user_manual/appendices/appendices.html#gfl-appendix) allows free distribution)
++ I uploaded a PDF copy of the 2.18 documentation by the QGIS Development Team. Its [GNU Free Documentation License](https://docs.qgis.org/2.18/en/docs/user_manual/appendices/appendices.html#gfl-appendix) allows free distribution
